@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm daviskamau</h1>
+<h1 align="center">Hi 👋, I'm kamau</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviskamau&label=Profile%20views&color=0e75b6&style=flat" alt="daviskamau" /> </p>
