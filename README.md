@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter,React Native**
 
-- 📝 I regularly write articles on [Python C++ & JavaScript](Python C++ & JavaScript)
+- 📝 I regularly write articles on (Python C++ & JavaScript)
 
 - 💬 Ask me about **Python C++ & JavaScript**
 
